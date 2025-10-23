@@ -8,7 +8,7 @@
 - 🔜 Launch official lore drop post + Discord teaser banner  
 - 🔜 Begin whitelist collection for early supporters  
 
----
+-
 
 ### Phase 2 – Expansion: “RACC Wars Begin”
 **Goal:** Build episodic NFT drops tied to story progression.  
