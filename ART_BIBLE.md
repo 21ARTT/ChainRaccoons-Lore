@@ -238,3 +238,32 @@ Neon glow aura
 Sparks floating around
 
 Cosmic forge background
+
+
+
+🧱 10. PRODUCTION RULES (To Keep Consistency)
+
+All characters must remain Regular Show style.
+
+Colors must stay saturated and bold.
+
+Every raccoon must include at least 1 signature trait.
+
+All motion comic frames must use consistent outlines.
+
+Lore must match Season 1 timeline: RACC Origins.
+
+Token art follows cartoon cosmic forge theme.
+
+
+This document ensures that:
+
+You maintain visual consistency
+
+Artists (or AI tools) follow the same rules
+
+Fans understand the identity
+
+Your GitHub stays professional
+
+The world of Chain Raccoons stays cohesive
